@@ -1,1 +1,1 @@
-# AssignmentQuestionTwo Polite Notice, Kindly click on master to view code.
+# AssignmentQuestionTwo Polite Notice, Kindly Select master to view code.
